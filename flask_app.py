@@ -7,3 +7,7 @@ def main():
 
 if __name__ == '__main__':
     app.run()
+
+@app.route('/submit')
+def submit():
+    return '<h1>Thank you!</h1>'

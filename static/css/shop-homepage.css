@@ -12,4 +12,23 @@ body {
   body {
     padding-top: 56px;
   }
+  .my-4 {
+    color: #ffff00;
 }
+
+   .price {
+    color: #ff0000;
+}
+
+   .nav-link {
+    color: #00ff00;
+}
+    .card-text {
+        color: #00ff00;
+    }
+    .submitbutton {
+        color: #00ff00;
+    }
+}
+
+
